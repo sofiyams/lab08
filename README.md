@@ -1,4 +1,4 @@
-# Lab 07: CSS animation example
+# Lab 08: CSS animation example
 
 A simple CSS `@keyframes` animation demo with four stages.
 
