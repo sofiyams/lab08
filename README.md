@@ -8,7 +8,7 @@ Note that animation makes processor demands, which are of special concern on mob
 
 ## Good and bad practice
 
-This is not a good exampe, as it animates the background colour of the body infinitely. Here's why…
+This is not a good example, as it animates the background colour of the body infinitely. Here's why…
 
 ### GPU = fast, smooth
 
